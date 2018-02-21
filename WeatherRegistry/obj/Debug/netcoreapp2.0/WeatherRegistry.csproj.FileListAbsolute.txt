@@ -1,0 +1,17 @@
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\bin\Debug\netcoreapp2.0\WeatherRegistry.deps.json
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\bin\Debug\netcoreapp2.0\WeatherRegistry.dll
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\bin\Debug\netcoreapp2.0\WeatherRegistry.pdb
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\obj\Debug\netcoreapp2.0\WeatherRegistry.csprojResolveAssemblyReference.cache
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\obj\Debug\netcoreapp2.0\WeatherRegistry.csproj.CoreCompileInputs.cache
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\obj\Debug\netcoreapp2.0\WeatherRegistry.AssemblyInfoInputs.cache
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\obj\Debug\netcoreapp2.0\WeatherRegistry.AssemblyInfo.cs
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\obj\Debug\netcoreapp2.0\WeatherRegistry.dll
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\obj\Debug\netcoreapp2.0\WeatherRegistry.pdb
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.dll
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Options.xml
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherRegistry\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Logging.Abstractions.xml

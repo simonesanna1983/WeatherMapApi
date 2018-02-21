@@ -1,0 +1,24 @@
+C:\Users\Simone.Sanna\Documents\Visual Studio 2017\Projects\WeatherMapApi\WeatherMapApi\bin\Debug\netcoreapp2.0\WeatherMapApi.deps.json
+C:\Users\Simone.Sanna\Documents\Visual Studio 2017\Projects\WeatherMapApi\WeatherMapApi\bin\Debug\netcoreapp2.0\WeatherMapApi.runtimeconfig.json
+C:\Users\Simone.Sanna\Documents\Visual Studio 2017\Projects\WeatherMapApi\WeatherMapApi\bin\Debug\netcoreapp2.0\WeatherMapApi.runtimeconfig.dev.json
+C:\Users\Simone.Sanna\Documents\Visual Studio 2017\Projects\WeatherMapApi\WeatherMapApi\bin\Debug\netcoreapp2.0\WeatherMapApi.dll
+C:\Users\Simone.Sanna\Documents\Visual Studio 2017\Projects\WeatherMapApi\WeatherMapApi\bin\Debug\netcoreapp2.0\WeatherMapApi.pdb
+C:\Users\Simone.Sanna\Documents\Visual Studio 2017\Projects\WeatherMapApi\WeatherMapApi\obj\Debug\netcoreapp2.0\WeatherMapApi.csprojResolveAssemblyReference.cache
+C:\Users\Simone.Sanna\Documents\Visual Studio 2017\Projects\WeatherMapApi\WeatherMapApi\obj\Debug\netcoreapp2.0\WeatherMapApi.csproj.CoreCompileInputs.cache
+C:\Users\Simone.Sanna\Documents\Visual Studio 2017\Projects\WeatherMapApi\WeatherMapApi\obj\Debug\netcoreapp2.0\WeatherMapApi.AssemblyInfoInputs.cache
+C:\Users\Simone.Sanna\Documents\Visual Studio 2017\Projects\WeatherMapApi\WeatherMapApi\obj\Debug\netcoreapp2.0\WeatherMapApi.AssemblyInfo.cs
+C:\Users\Simone.Sanna\Documents\Visual Studio 2017\Projects\WeatherMapApi\WeatherMapApi\obj\Debug\netcoreapp2.0\WeatherMapApi.dll
+C:\Users\Simone.Sanna\Documents\Visual Studio 2017\Projects\WeatherMapApi\WeatherMapApi\obj\Debug\netcoreapp2.0\WeatherMapApi.pdb
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherMapApi\bin\Debug\netcoreapp2.0\WeatherMapApi.deps.json
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherMapApi\bin\Debug\netcoreapp2.0\WeatherMapApi.runtimeconfig.json
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherMapApi\bin\Debug\netcoreapp2.0\WeatherMapApi.runtimeconfig.dev.json
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherMapApi\bin\Debug\netcoreapp2.0\WeatherMapApi.dll
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherMapApi\bin\Debug\netcoreapp2.0\WeatherMapApi.pdb
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherMapApi\obj\Debug\netcoreapp2.0\WeatherMapApi.csprojResolveAssemblyReference.cache
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherMapApi\obj\Debug\netcoreapp2.0\WeatherMapApi.csproj.CoreCompileInputs.cache
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherMapApi\obj\Debug\netcoreapp2.0\WeatherMapApi.AssemblyInfoInputs.cache
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherMapApi\obj\Debug\netcoreapp2.0\WeatherMapApi.AssemblyInfo.cs
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherMapApi\obj\Debug\netcoreapp2.0\WeatherMapApi.dll
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherMapApi\obj\Debug\netcoreapp2.0\WeatherMapApi.pdb
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherMapApi\bin\Debug\netcoreapp2.0\WeatherRegistry.dll
+C:\GitHub\Playground\OpenWeatherMap\WeatherMapApi\WeatherMapApi\bin\Debug\netcoreapp2.0\WeatherRegistry.pdb
